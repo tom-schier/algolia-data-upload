@@ -1,0 +1,1 @@
+https://us-central1-flightx-171107.cloudfunctions.net/addAirportDataToAlgolia
