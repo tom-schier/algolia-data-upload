@@ -3,7 +3,7 @@ const admin = require('firebase-admin');
 const algoliasearch = require('algoliasearch');
 
 const ALGOLIA_APP_ID = "9JSHZLXNPH";
-const ALGOLIA_ADMIN_KEY = "bb0a0e83dd31151c1aec70e5b5d3af95";
+const ALGOLIA_ADMIN_KEY = "ADMIN_KEY_HERE";
 const ALGOLIA_INDEX_NAME = "airports";
 
 admin.initializeApp(functions.config().firebase);
